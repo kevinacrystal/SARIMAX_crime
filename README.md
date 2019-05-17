@@ -12,9 +12,9 @@ The data was cleaned and merged, and predictive modeling was done using ARIMA, S
 
 
 ### Contents:
-- [01_EDA_and_Cleaning](https://github.com/kevinacrystal/SARIMAX_crime/blob/master/01_Cleaning_and_EDA.ipynb)
-- [02_Modeling](https://github.com/kevinacrystal/SARIMAX_crime/blob/master/02_Modeling.ipynb)
-- [03_Mapping](https://github.com/kevinacrystal/SARIMAX_crime/blob/master/03_Choropleth_Maps.ipynb)
+- [01. Data Cleaning and EDA](https://github.com/kevinacrystal/SARIMAX_crime/blob/master/01_Cleaning_and_EDA.ipynb)
+- [02. Modeling](https://github.com/kevinacrystal/SARIMAX_crime/blob/master/02_Modeling.ipynb)
+- [03. Mapping](https://github.com/kevinacrystal/SARIMAX_crime/blob/master/03_Choropleth_Maps.ipynb)
 
 ## Conclusions and Recommendations
 
