@@ -2,7 +2,7 @@
 
 ## Problem Statement
 
-This project aims to explore the incidence of crime in New York City and attempt to predict the incidence of future crime using correlated features and time series models.
+This project aims to explore the incidence of crime in New York City and attempt to predict the incidence of future crime using correlated features and time series models. By leveraging features correlated with crime, limited resources can be allocated more effectively.
 
 ## Executive Summary
 ### Methodology:
@@ -18,4 +18,4 @@ The data was cleaned and merged, and predictive modeling was done using ARIMA, S
 
 ## Conclusions and Recommendations
 
-Using maximum temperature improved the predictive ability of the SARIMAX model. By using an exogenous feature such as maximum temperature, which can be more accurately predicted than crime itself, it may be possible to improve predictions of crime incidence.
+Using maximum temperature improved the predictive ability of the SARIMAX model. Maximum temperature, which can be more accurately predicted than crime itself, may serve as an effective exogenous feature to improve predictions of crime incidence.
